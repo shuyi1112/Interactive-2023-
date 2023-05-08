@@ -1,0 +1,46 @@
+h3{
+	font-size: 48pt;
+	color:blue;
+	font-family: monospace;
+}
+
+.main #important h3{
+	background-color: yellow;
+}
+
+a{
+	color:pink;
+	font-size: 24pt;
+	font-family: sans-serif;
+}
+
+.main #哪有不疯的啊啊啊啊啊啊 a: active{
+	color:purple;
+	font-size: 5pt;
+	font-family: monospace;
+}
+
+a:hover{
+color:green;
+font-size:48pt;
+font-family: sans-serif;
+}
+
+div.main{
+	width: 500px;
+	height: 500px;
+	background-color: gray;
+	margin:50px;
+
+}
+
+div.main{
+	
+}
+div.main:before{
+	content: "\薯薯我啊！";
+}
+
+div.main:after{
+	content:url(https://n.sinaimg.cn/sinakd20117/430/w1024h1006/20220813/cf6f-f8686095d2f97aadcbcfeb90c8ab7fdd.jpg)
+	

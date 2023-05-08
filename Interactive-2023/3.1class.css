@@ -1,0 +1,21 @@
+.watermelon{
+	background:radial-gadient(circle at center, lightpink);
+	transition:background 2s ease,
+				left 3s ease;
+	background-size: 300px,300px;
+	background-position: 0px-150px;
+	border-radius: 0 0 1000px 1000px;
+	width:300px;
+	height:150px;
+	position:absolute;
+	top:1000px;
+	left:0px;
+
+
+}
+
+.watermelon:hover{
+	background-size: 500px 500px;
+	background-position: -100px -250px;
+	left:300px;
+}
