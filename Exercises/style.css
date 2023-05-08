@@ -1,0 +1,743 @@
+.month-header{
+    display: block;
+    font-size: 14pt;
+    text-align: webkit-center;
+
+    width:1001px;
+    height:50px;
+    outline:thick double greenyellow;
+    position:relative;
+   
+    font-size: 20pt;
+    font-family: bely display,sans-serif;
+    font-weight: bold;
+
+
+}
+
+.month{
+    top:80px;
+    max-width: 1001px;
+    postion:relative;
+    display: block;
+    text-align: webkit-center;
+
+}
+.weeklabels{
+    flex: -1;
+    top:180px;
+    left:200px;
+
+    display:felx;
+    flex-flow: row;
+    font-size: 18pt;
+    padding:80px 30px 30px 30px;
+    text-align: webkit-center;
+
+
+    background-color: floralwhite;
+    font-family: bely,sans-serif;
+    font-weight: bold;
+    color:deeppink;
+}
+
+.day1{
+    text-align: webkit-center;
+    position:absolute;
+    top:220px;
+    left:220px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: forestgreen;
+  border-radius: 50%;
+
+
+
+}
+
+.day8{
+    text-align: webkit-center;
+    position:absolute;
+    top:220px;
+    left:260px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: forestgreen;
+  border-radius: 50%;
+
+
+
+}
+
+.day15{
+    text-align: webkit-center;
+    position:absolute;
+    top:220px;
+    left:300px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: forestgreen;
+  border-radius: 50%;
+
+
+
+}
+
+.day22{
+    text-align: webkit-center;
+    position:absolute;
+    top:220px;
+    left:340px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: forestgreen;
+  border-radius: 50%;
+
+
+
+}
+
+.day29{
+    text-align: webkit-center;
+    position:absolute;
+    top:220px;
+    left:380px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: forestgreen;
+  border-radius: 50%;
+
+
+
+}
+
+.day7{
+    text-align: webkit-center;
+    position:absolute;
+    top:140px;
+    left:220px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.day14{
+    text-align: webkit-center;
+    position:absolute;
+    top:140px;
+    left:260px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.day21{
+    text-align: webkit-center;
+    position:absolute;
+    top:140px;
+    left:300px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.day28{
+    text-align: webkit-center;
+    position:absolute;
+    top:140px;
+    left:340px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.day2{
+    text-align: webkit-center;
+    position:absolute;
+    top:320px;
+    left:220px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lawngreen;
+  border-radius: 50%;
+}
+
+.day9{
+    text-align: webkit-center;
+    position:absolute;
+    top:320px;
+    left:260px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lawngreen;
+  border-radius: 50%;
+}
+
+.day16{
+    text-align: webkit-center;
+    position:absolute;
+    top:320px;
+    left:300px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lawngreen;
+  border-radius: 50%;
+}
+
+.day23{
+    text-align: webkit-center;
+    position:absolute;
+    top:320px;
+    left:340px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lawngreen;
+  border-radius: 50%;
+}
+
+.day30{
+    text-align: webkit-center;
+    position:absolute;
+    top:320px;
+    left:380px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lawngreen;
+  border-radius: 50%;
+}
+
+.day3{
+    text-align: webkit-center;
+    position:absolute;
+    top:420px;
+    left:220px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: seagreen;
+  border-radius: 50%;
+}
+
+.day10{
+    text-align: webkit-center;
+    position:absolute;
+    top:420px;
+    left:260px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: seagreen;
+  border-radius: 50%;
+}
+
+.day17{
+    text-align: webkit-center;
+    position:absolute;
+    top:420px;
+    left:300px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: seagreen;
+  border-radius: 50%;
+}
+
+.day24{
+    text-align: webkit-center;
+    position:absolute;
+    top:420px;
+    left:340px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: seagreen;
+  border-radius: 50%;
+}
+
+.day31{
+    text-align: webkit-center;
+    position:absolute;
+    top:420px;
+    left:380px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: seagreen;
+  border-radius: 50%;
+}
+
+.day4{
+    text-align: webkit-center;
+    position:absolute;
+    top:500px;
+    left:220px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: palegreen;
+  border-radius: 50%;
+}
+
+.day11{
+    text-align: webkit-center;
+    position:absolute;
+    top:500px;
+    left:260px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: palegreen;
+  border-radius: 50%;
+}
+
+.day18{
+    text-align: webkit-center;
+    position:absolute;
+    top:500px;
+    left:300px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: palegreen;
+  border-radius: 50%;
+}
+
+.day25{
+    text-align: webkit-center;
+    position:absolute;
+    top:500px;
+    left:340px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: palegreen;
+  border-radius: 50%;
+}
+
+
+.day5{
+    text-align: webkit-center;
+    position:absolute;
+    top:600px;
+    left:220px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: violet;
+  border-radius: 50%;
+}
+
+
+.day12{
+    text-align: webkit-center;
+    position:absolute;
+    top:600px;
+    left:260px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: violet;
+  border-radius: 50%;
+}
+
+
+.day19{
+    text-align: webkit-center;
+    position:absolute;
+    top:600px;
+    left:300px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: violet;
+  border-radius: 50%;
+}
+
+
+.day26{
+    text-align: webkit-center;
+    position:absolute;
+    top:600px;
+    left:340px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: violet;
+  border-radius: 50%;
+}
+
+.day6{
+    text-align: webkit-center;
+    position:absolute;
+    top:700px;
+    left:220px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lightpink;
+  border-radius: 50%;
+}
+
+.day13{
+    text-align: webkit-center;
+    position:absolute;
+    top:700px;
+    left:260px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lightpink;
+  border-radius: 50%;
+}
+
+.day20{
+    text-align: webkit-center;
+    position:absolute;
+    top:700px;
+    left:300px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lightpink;
+  border-radius: 50%;
+}
+
+.day27{
+    text-align: webkit-center;
+    position:absolute;
+    top:700px;
+    left:340px;
+    
+
+    color: white;
+    background-color: orange;
+    padding:20px;
+    flex:1;
+
+    text-align: webkit-center;
+    font-family: bely;
+    font-weight: italic;
+
+  width: 15px;
+  height: 15px;
+  background-color: lightpink;
+  border-radius: 50%;
+}

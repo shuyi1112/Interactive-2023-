@@ -1,0 +1,31 @@
+.container{
+	background-color: pink;
+	display:flex;
+	width:500px;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.item-1{
+	background-color: red;
+	width:100px;
+	flex:0;
+}
+
+.item-2{
+	background-color: green;
+	width:100px;
+	flex:2;
+}
+
+.item-3{
+	background-color: blue;
+	width:100px;
+	flex:1;
+}
+
+.item-4{
+	background-color: orange;
+	width:100px;
+	flex:1;
+}
